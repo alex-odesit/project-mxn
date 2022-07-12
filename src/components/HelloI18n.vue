@@ -10,6 +10,7 @@ export default class HelloI18n extends Vue {}
 </script>
 
 <i18n>
+
 {
   "en": {
     "hello": "Hello i18n in SFC!"
