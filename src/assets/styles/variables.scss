@@ -1,0 +1,23 @@
+$white: white;
+$black: black;
+
+$purple: #7d36da;
+
+$grey: #313131;
+$greyWhite: #e4e4e4;
+
+$inputLight: #f4f4f4;
+$inputDark: #454545;
+
+$backDark: #1c1c1c;
+$backLight: #f4f4f4;
+
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@500&family=Jura:wght@700&family=Raleway:wght@300;500;700&display=swap');
+@font-face {
+  font-family: 'DrukWideBold';
+  src: url('@/assets/fonts/Druk-Wide-Bold.eot');
+  src: local('☺'), url('@/assets/fonts/Druk-Wide-Bold.woff') format('woff'),
+    url('@/assets/fonts/Druk-Wide-Bold.ttf') format('truetype'), url('@/assets/fonts/Druk-Wide-Bold.svg') format('svg');
+  font-weight: 700;
+  font-style: normal;
+}

@@ -1,3 +1,18 @@
 {
-  "message": "hello i18n !!"
+  "menu": {
+    "about_us": "About us",
+    "gallery": "Gallery",
+    "services": "Ministry"
+  },
+  "feed_back": {
+    "questions": "You have a questions?!",
+    "name": "Name",
+    "email": "Email",
+    "message": "Message",
+    "send": "Send"
+  },
+  "about_us": {
+    "title": "About us",
+    "text": "Lorem ipsum dolor sit amet. Молодіжне служіння служіння Молодіжне служіння служіння служіння служіння Молодіжне Молодіжне. служіння Молодіжне служіння? Молодіжне Молодіжне служіння служіння. Молодіжне служіння Молодіжне служіння Молодіжне Молодіжне служіння."
+  }
 }

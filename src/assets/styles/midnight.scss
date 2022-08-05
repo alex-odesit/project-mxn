@@ -1,0 +1,44 @@
+body.dark {
+  color: $black;
+
+  header {
+    color: $white;
+  }
+
+  .switches__theme_lamp {
+    fill: #474747;
+    stroke: #474747;
+    background: rgba(255, 255, 255, 0.21);
+  }
+
+  .switches__theme {
+    background: rgba(255, 255, 255, 0.21);
+  }
+
+  .form-wrapper {
+    background-color: $grey;
+    .form__title {
+      color: $greyWhite;
+    }
+    .form__input {
+      input,
+      textarea {
+        color: $greyWhite;
+        background-color: $inputDark;
+      }
+    }
+  }
+
+  .about-us {
+    background-color: $backDark;
+    box-shadow: 0 -10px 50px black;
+  }
+
+  .about-us__title {
+    color: #d9d9d9;
+  }
+
+  .about-us__text {
+    color: #bbbbbb;
+  }
+}
